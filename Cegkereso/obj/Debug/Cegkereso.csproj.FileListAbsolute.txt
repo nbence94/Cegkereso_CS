@@ -1,0 +1,10 @@
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\bin\Debug\Cegkereso.exe.config
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\bin\Debug\Cegkereso.exe
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\bin\Debug\Cegkereso.pdb
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\obj\Debug\Cegkereso.csprojResolveAssemblyReference.cache
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\obj\Debug\Cegkereso.Form1.resources
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\obj\Debug\Cegkereso.Properties.Resources.resources
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\obj\Debug\Cegkereso.csproj.GenerateResource.Cache
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\obj\Debug\Cegkereso.exe
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\obj\Debug\Cegkereso.pdb
+E:\Egyéb\04 PROGRAMOZÁS\C#\Cegkereso\Cegkereso\obj\Debug\Cegkereso.Leltar.resources
